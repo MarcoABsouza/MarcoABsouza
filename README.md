@@ -1,4 +1,4 @@
-# Implementação do algoritmo de coversão de um Automato Finito Não-Deterministico sem transição vazia para Autômato Finito Determinístico
+<h1 align = "center"> Implementação do algoritmo de coversão de um Automato Finito Não-Deterministico sem transição vazia para Autômato Finito Determinístico </h1>
 
 <!--
 **MarcoABsouza/MarcoABsouza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
