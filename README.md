@@ -1,5 +1,14 @@
 <h1 align = "center"> Implementação do algoritmo de coversão de um Automato Finito Não-Deterministico sem transição vazia para Autômato Finito Determinístico </h1>
 
+Aluno: Marco Aurelio Balduino de Souza
+
+Mátricula: 202011957
+
+Disciplina: Linguagens formais e automatos
+
+<h2>Sobre o Trabalho</h2>
+<p>O programa feito é uma implementação de um algoritmo de conversão do Automato Finito Não-Deterministico sem transição vazia para Autômato Finito Determinístico.</p>
+
 <!--
 **MarcoABsouza/MarcoABsouza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
