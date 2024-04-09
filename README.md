@@ -1,4 +1,12 @@
  # Marco Aurelio Balduino de Souza
+  Areas of expertise
+  - Back-End Developer ( Python )
+  - Data Scientist
+  - Data Analyst
+  - Artificial intelligence
+  - Machine Learning
+  - Deep Learning
+  - SQL and NoSQL
  
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarcoABsouza&show_icons=true&theme=catppuccin_latte)
