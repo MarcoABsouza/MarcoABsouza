@@ -4,8 +4,6 @@
   - Data Scientist
   - Data Analyst
   - Artificial intelligence
-  - Machine Learning
-  - Deep Learning
   - SQL and NoSQL
  
 
