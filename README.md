@@ -1,14 +1,14 @@
  # About Me
  
  ### Expertise:
- - Python
- - Java
- - Power BI
- - ETL
- - Docker
- - MySQL
- - MongoDB
- - Artificial Intelligence
+ - _Python_
+ - _Java_
+ - _Power BI_
+ - _ETL_
+ - _Docker_
+ - _MySQL_
+ - _MongoDB_
+ - _Artificial Intelligence_
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarcoABsouza&show_icons=true&theme=catppuccin_latte)
