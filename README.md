@@ -1,10 +1,14 @@
- # Marco Aurelio Balduino de Souza
-  Areas of expertise
-  - Back-End Developer ( Python )
-  - Data Scientist
-  - Data Analyst
-  - Artificial intelligence
-  - SQL and NoSQL
+ # About Me
+ 
+ ### Expertise:
+ - Python
+ - Java
+ - Power BI
+ - ETL
+ - Docker
+ - MySQL
+ - MongoDB
+ - Artificial Intelligence
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarcoABsouza&show_icons=true&theme=catppuccin_latte)
