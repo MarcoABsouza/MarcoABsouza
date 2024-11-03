@@ -1,6 +1,6 @@
 ## Bem-Vindo ao meu GitHub
- -------------------------
- ### Expertise:
+
+### Expertise:
  - _Python_
  - _Java_
  - _Power BI_
