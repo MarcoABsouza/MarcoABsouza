@@ -1,5 +1,8 @@
 ## Bem-Vindo ao meu GitHub
 
+🏫 Graduated in computer science from UFCAT
+
+
 ### Expertise:
  - _Python_
  - _Java_
@@ -21,6 +24,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcoABsouza&hide_progress=false)
 
+### Technologies
 <div style="display: inline_block"><br>
   <img align="center" alt="Marco-Py" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg">
   <img align="center" alt="Marco-Numpy" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original-wordmark.svg">
