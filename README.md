@@ -1,4 +1,4 @@
-## Bem-Vindo ao meu GitHub
+## Welcome to my GitHub
 
 🏫 Graduated in computer science from UFCAT
 
